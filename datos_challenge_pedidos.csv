@@ -1,0 +1,8 @@
+﻿Tipo de Registro,Código / Categoría,Información / Respuesta
+Pedido,PED123,Estado: En preparación | Entrega estimada: 25 de Octubre
+Pedido,PED456,Estado: Enviado - En ruta | Entrega estimada: Hoy antes de las 8:00 PM
+Pedido,PED789,Estado: Entregado | Entrega estimada: Entregado ayer
+Pregunta Frecuente,envios,Costo de envío $99 MXN. Gratis en compras mayores a $999 MXN. Tiempo: 3 a 5 días hábiles.
+Pregunta Frecuente,devoluciones,Hasta 30 días naturales en empaque original y sin usar para devolución gratuita.
+Pregunta Frecuente,pagos,"Tarjetas de crédito/débito (Visa, Mastercard, AMEX), PayPal y transferencias SPEI."
+Pregunta Frecuente,facturas,"Enviar RFC, constancia de situación fiscal y uso de CFDI a facturas@tiendaonline.com dentro del mes de compra."
